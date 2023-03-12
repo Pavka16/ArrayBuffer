@@ -1,4 +1,4 @@
-# Домашнее задание к лекции «*Math*, *RegExp*, *ArrayBuffer*»
+# Домашнее задание к лекции «*`ArrayBuffer`*»
 
 ### **Важные моменты** 
 
@@ -10,4 +10,4 @@
 В личном кабинете на сайте [netology.ru](http://netology.ru/) в поле комментария к домашней работе добавьте ссылки на ваши GitHub-проекты.
 
 ### [**`Math (log/trig)`**](https://github.com/Pavka16/Math-)
-### [**`RegExp`**](https://github.com/Pavka16/RegExp)
+### [**`ArrayBuffer`**](https://github.com/Pavka16/arrbuffer)
